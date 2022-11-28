@@ -1,0 +1,1 @@
+This is blog text to validate that the blog page works.
