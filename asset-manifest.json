@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/harryself.github.io/static/css/main.ef44a52d.css",
-    "main.js": "/harryself.github.io/static/js/main.9d22fd86.js",
-    "static/js/787.70347db5.chunk.js": "/harryself.github.io/static/js/787.70347db5.chunk.js",
-    "static/media/jayhawk.png": "/harryself.github.io/static/media/jayhawk.5455cfc86ee7e77988e2.png",
-    "index.html": "/harryself.github.io/index.html",
-    "main.ef44a52d.css.map": "/harryself.github.io/static/css/main.ef44a52d.css.map",
-    "main.9d22fd86.js.map": "/harryself.github.io/static/js/main.9d22fd86.js.map",
-    "787.70347db5.chunk.js.map": "/harryself.github.io/static/js/787.70347db5.chunk.js.map"
+    "main.css": "/static/css/main.ef44a52d.css",
+    "main.js": "/static/js/main.ad3cbf84.js",
+    "static/js/787.70347db5.chunk.js": "/static/js/787.70347db5.chunk.js",
+    "static/media/jayhawk.png": "/static/media/jayhawk.5455cfc86ee7e77988e2.png",
+    "index.html": "/index.html",
+    "main.ef44a52d.css.map": "/static/css/main.ef44a52d.css.map",
+    "main.ad3cbf84.js.map": "/static/js/main.ad3cbf84.js.map",
+    "787.70347db5.chunk.js.map": "/static/js/787.70347db5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef44a52d.css",
-    "static/js/main.9d22fd86.js"
+    "static/js/main.ad3cbf84.js"
   ]
 }
