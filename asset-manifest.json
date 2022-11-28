@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/self-app/static/css/main.ef44a52d.css",
+    "main.js": "/self-app/static/js/main.37b3a354.js",
+    "static/js/787.70347db5.chunk.js": "/self-app/static/js/787.70347db5.chunk.js",
+    "static/media/jayhawk.png": "/self-app/static/media/jayhawk.5455cfc86ee7e77988e2.png",
+    "index.html": "/self-app/index.html",
+    "main.ef44a52d.css.map": "/self-app/static/css/main.ef44a52d.css.map",
+    "main.37b3a354.js.map": "/self-app/static/js/main.37b3a354.js.map",
+    "787.70347db5.chunk.js.map": "/self-app/static/js/787.70347db5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef44a52d.css",
+    "static/js/main.37b3a354.js"
+  ]
+}
